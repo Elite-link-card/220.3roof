@@ -1035,7 +1035,7 @@ html {
   position: relative;
   border-radius: 12px;
   background: #ffffff00;
-background-image: url(back.png);
+background-image: url(nbb.png);
 }
 @keyframes  url(Untitled\ design\ \(1\).png){
   max-width: 100%;
@@ -2920,7 +2920,7 @@ justify-content: center;
 
 
 }.logoo{
-  color: #F1E7D9;
+  color: #ffffff;
     min-height: 54px;
     display: flex;
     position: sticky;
