@@ -1035,7 +1035,7 @@ html {
   position: relative;
   border-radius: 12px;
   background: #ffffff00;
-background-image: url(baff2.png);
+background-image: url(ccc.png);
 }
 @keyframes  url(Untitled\ design\ \(1\).png){
   max-width: 100%;
@@ -2794,7 +2794,7 @@ left: 10px;}
     line-height: 1.4;
     display: flex;
     align-items: baseline;
-    color: #212F54;
+    color: #ffffff;
     justify-content: center;
     position: relative;
     animation-name: example;
@@ -2911,7 +2911,7 @@ to {top: 0px;} }
 
   .links-and-notes
 {transform: translateY(40%);
-  background-color: #00000066;
+  background-color: #212f5432;
   border-radius: 15%;
 max-width: 95%;
 margin: 15px;
