@@ -2188,6 +2188,7 @@ fieldset {
   .blinq-card .links-and-notes {
     flex: 1 2 auto;
     max-height: 1200px;
+    top: px;
   }
 }
 
@@ -2341,7 +2342,7 @@ fieldset {
 
   z-index: 1;
   left: 5%;
-  transform: translateX(0%) translateY(25%);
+  transform: translateX(-3%) translateY(5%);
   position:relative;
   animation-name:PHOTO;
   animation-duration: 1.5s;
@@ -2353,16 +2354,12 @@ to {top: 75px;}
 }
 
 .left-picture[data-image-type="profile"] {
- width: 90%;
-  padding-top:90%;
+ width: 95%;
+  padding-top:95%;
   border-radius: 90%;
 }
 
-.left-picture[data-image-type="logo"] {
-  width: 35.5555555556%;
-  padding-top: 20%;
-  border-radius: 5px;
-}
+
 
 .left-picture .left-picture-img {
   position: absolute;
@@ -2374,13 +2371,7 @@ to {top: 75px;}
   object-position:center center;
 }
 
-.left-picture[data-image-type="logo"] .left-picture-img {
-  border-radius: 5px;
-}
 
-.left-picture[data-image-type="profile"] .left-picture-img {
-  border-radius: 50%;
-}
 
 .left-picture[data-image-type="profile"]::before {
   content: "";
@@ -2910,9 +2901,9 @@ to {top: 0px;} }
 
 
   .links-and-notes
-{transform: translateY(40%);
+{transform: translateY(20%);
   background-color: #212f5469;
-  border-radius: 15%;
+  border-radius: 5%;
 max-width: 95%;
 margin: 15px;
 
