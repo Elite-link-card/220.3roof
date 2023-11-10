@@ -1035,7 +1035,7 @@ html {
   position: relative;
   border-radius: 12px;
   background: #ffffff00;
-background-image: url(nbb.png);
+background-image: url(baff2.png);
 }
 @keyframes  url(Untitled\ design\ \(1\).png){
   max-width: 100%;
@@ -2911,7 +2911,7 @@ to {top: 0px;} }
 
   .links-and-notes
 {transform: translateY(40%);
-  background-color: #212f5432;
+  background-color: #00000066;
   border-radius: 15%;
 max-width: 95%;
 margin: 15px;
